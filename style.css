@@ -1,0 +1,29 @@
+*{
+  margin: 1%;
+  padding: 0;
+}
+body {
+  background-color: rgb(243, 176, 87);
+}
+
+.asw {
+    background-color: aliceblue;
+}
+h3{
+  color: rgb(20, 34, 224);
+}
+
+.button {
+  background-color: #030303; 
+  border: none;
+  color: white;
+  padding: 5px 30px;
+
+  display: inline-block;
+  font-size: 10px;
+
+
+  margin-left: 5;
+}
+
+
